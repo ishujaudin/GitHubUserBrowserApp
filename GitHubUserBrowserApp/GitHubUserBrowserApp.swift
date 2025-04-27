@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct GitHubUserBrowserAppApp: App {
+struct GitHubUserBrowserApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UserListView()
         }
     }
 }
