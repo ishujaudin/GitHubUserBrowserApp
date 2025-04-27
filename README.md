@@ -39,9 +39,3 @@ An iOS application built with SwiftUI that allows users to browse GitHub users a
    private let token = "YOUR_GITHUB_TOKEN_HERE"
    ```
 3. Build and run the project in Xcode.
-
-## Notes
-
-- No GitHub-specific libraries (e.g., OctoKit) were used.
-- The app strictly follows the assignment specifications from Money Forward.
-- Basic loading and error handling included.
